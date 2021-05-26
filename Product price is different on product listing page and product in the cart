@@ -1,0 +1,26 @@
+Product price is different on product listing page and product in the cart
+
+
+Major
+
+Windows 10 pro
+Google Chrome
+
+URL: https://qatest-dev.indvp.com/product/luxury-sparkle-crackers
+
+Steps to reproduce:
+
+1) Add product to cart
+2) Open the mini cart on the top right corner (via header)
+3) Compare the price
+
+Expected result:
+The product price in the cart is the same as on product listing page
+	
+Actual result:
+Product price of a product is different on product listing page and on product in the cart
+
+Attachments:
+
+Screenshot: https://www.screencast.com/t/RdkdARFH3bc	
+Video:https://www.screencast.com/t/O1R12bYL
