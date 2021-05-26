@@ -1,0 +1,25 @@
+Enabled "proceed to billing"	
+
+Critical
+
+Windows 10 pro
+Google Chrome	
+
+URL: https://qatest-dev.indvp.com/cart	
+
+Steps to reproduce:
+1) Add  any product to cart
+2) Open the mini cart on the top right corner (via header)
+3) Click ""Secure checkout""
+4) Fill in all required fields
+
+Expected result: 
+"Proceed to billing" button is disabled	
+
+Actual result:
+"Proceed to billing" button is enabled	
+
+Attachments:
+
+Screenshot: https://www.screencast.com/t/WYyhme6byBy	
+Video: https://www.screencast.com/t/fwNgkZ7TTYU	
