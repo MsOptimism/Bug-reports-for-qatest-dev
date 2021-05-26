@@ -1,0 +1,22 @@
+"Submit" buttton out of sight	
+
+Minor
+
+Windows 10 pro
+Google Chrome	
+
+URL: https://qatest-dev.indvp.com/	
+
+Steps to reproduce:
+1) Click ""Create an account"" on the top right corner (via header)
+2) See the ""Submit"" button"	
+
+Expected result:
+"Submit" button in sight	
+
+Actual result:
+"Submit" buttton out of sight	
+
+Attachments:
+Screenshot: https://www.screencast.com/t/2vSzrGP5	
+Video: https://www.screencast.com/t/yvNdFiaw9hK	
