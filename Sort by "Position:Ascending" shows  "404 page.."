@@ -1,0 +1,25 @@
+Sort by "Position:Ascending" shows  "404 page.."
+
+Minor
+
+Windows 10 pro
+Google Chrome	
+
+URL: https://qatest-dev.indvp.com/gifts-45/all-gifts	
+
+Steps to reproduce:
+1) Click ""All gifts""
+2) Click ""Sort by""
+3) Choose Sort by ""Position:Ascending""
+4) See ""404 page.."""	
+
+Expected result:
+All gifts sorted by Position:Ascending	
+
+Actual result:
+A page "404 page not found"  is displayed 	
+
+Attachments:
+Screenshot: https://www.screencast.com/t/SfiWngdkfOl8	
+Video:https://www.screencast.com/t/4Uaeotzqf
+Logs: {message: "Concrete type for ProductInterface not implemented", category: "graphql-input", locations: Array(1), path: Array(3)}
