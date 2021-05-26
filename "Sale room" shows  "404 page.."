@@ -1,0 +1,24 @@
+"Sale room" shows  "404 page.."
+
+Minor
+
+Windows 10 pro
+Google Chrome	
+
+URL: https://qatest-dev.indvp.com/sale-room	
+
+Steps to reproduce:
+1) Click "Sale room"
+2) See the "404 page.."
+
+NOTE! If you go to homepage you can actually open the sale room clicking on "Sale room".
+
+Expected result:
+Sale room page opens and shows list of products.
+	
+Actual result:
+A page "404 page not found"  is displayed 	
+
+Attachments:
+Screenshot: https://www.screencast.com/t/dlBETsTf	
+Video:https://www.screencast.com/t/miuZvN1nB	
