@@ -1,0 +1,22 @@
+“Returns"	 page shows 404 error
+
+Minor
+
+Windows 10 pro
+Google Chrome	
+
+URL: https://qatest-dev.indvp.com/refunds	
+
+Steps to reproduce:
+1) Click ""Returns"" on the lower left corner (via footer)
+2) See ""404 page.."""	
+
+Expected result:
+"Returns" is opens and shows return information	
+
+Actual result:
+A page "404 page not found"  is displayed 	
+
+Attachments:
+Screenshot: https://www.screencast.com/t/M9EJck47dEIL	
+Video: https://www.screencast.com/t/g5QNEKdSxd
