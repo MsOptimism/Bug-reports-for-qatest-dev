@@ -1,0 +1,22 @@
+“Contact us” link	shows 404 error
+
+Minor
+
+Windows 10 pro
+Google Chrome	
+
+URL: https://qatest-dev.indvp.com/contacts	
+
+Steps to reproduce:
+1) Click ""Contact us"" on the lower left corner (via footer)
+2) See ""404 page.."	
+
+Expected result:
+"Contact us" is opens and shows contact information	
+
+Actual result:
+A page "404 page not found"  is displayed 	
+
+Attachments:
+Screenshot: https://www.screencast.com/t/xVdW1zxzZG	
+Video: https://www.screencast.com/t/YTSCrbjxCdqh	
