@@ -1,0 +1,22 @@
+Resizing the page makes some images are not found	
+
+Major
+
+Windows 10 pro
+Google Chrome	
+
+URL: https://qatest-dev.indvp.com/	
+
+Steps to reproduce:
+1) Open home page
+2) Resize page 766x1198 (or less)	
+
+Expected result:
+All images are displayed	
+
+Actual result:
+Some images are not found (see screenshot)	
+
+Atachments:
+Screenshot: https://www.screencast.com/t/M7KHklzoP	
+Video: https://www.screencast.com/t/BleYOXmx
