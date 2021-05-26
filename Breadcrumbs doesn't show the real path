@@ -1,0 +1,22 @@
+Breadcrumbs doesn't show the real path
+
+Minor
+
+Windows 10 pro
+Google Chrome	
+
+URL: https://qatest-dev.indvp.com/	
+
+Steps to reproduce: 
+1) Click on ""Home Décor"" from ""Soft Furnishings"" via navigation buttons
+2) Click the ""Iris Burnt Orange Medium.."" on the product page
+3) See the breadcrumbs: ""Be Inspired/Tree of Life Burnt Orange/Iris Burnt Orange Medium - Set of Two and Large Cushions"""	
+
+Expected result: 
+Breadcrumbs shows the real path	
+
+Actual result:
+Breadcrumbs doesn't show the real path		
+
+Attachments:
+Video:https://www.screencast.com/t/6KcpuY7wVPyY	
