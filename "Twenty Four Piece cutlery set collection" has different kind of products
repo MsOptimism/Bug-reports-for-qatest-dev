@@ -1,0 +1,22 @@
+"Twenty Four Piece cutlery set collection" has different kind of products	
+
+Minor
+
+Windows 10 pro
+Google Chrome	
+
+URL: https://qatest-dev.indvp.com/kitchen-dining/cutlery	
+
+Steps to reproduce:
+1) Click the ""Shop our new Provence twenty four piece cutlery set collection"" on the main page
+2) See the set collections includes four and less pieces."	
+
+Expected result:
+Set collections includes twenty four pieces cutlery set only	
+
+Actual result:
+Set collections includes four and less pieces pieces cutlery set 	
+
+Attachments:
+Screenshot: https://www.screencast.com/t/KTIo9yWp	
+Video: https://www.screencast.com/t/bJDXgnnh
