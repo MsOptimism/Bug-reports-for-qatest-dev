@@ -1,0 +1,23 @@
+The out of stock product  added to cart
+
+Major
+
+Windows 10 pro
+Google Chrome	
+
+URL: https://qatest-dev.indvp.com/product/bacchus-glass-collection
+	
+Steps to reproduce:
+1) Add product to cart
+2) Open the mini cart on the top right corner (via header)
+3) See the out of stock product in the cart
+
+Expected result:
+"Sorry! The product is out of stock!"	
+
+Actual result:
+The product  added to cart	
+
+Attacments:
+Screnshot: https://www.screencast.com/t/s5F7PJ9f	
+Video: https://www.screencast.com/t/wUPXSyXF
